@@ -28,7 +28,11 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Controlling the @media…](https://cassandra-parisi.medium.com/controlling-the-media-3efceaaa264b?source=rss-15b114af825f------2)
+- [Timing is Everything](https://cassandra-parisi.medium.com/timing-is-everything-c071c88840ff?source=rss-15b114af825f------2)
+- [Now That’s a Flex(box)](https://medium.com/codex/now-thats-a-flex-box-f36aee55b52b?source=rss-15b114af825f------2)
+- [Epic STATE of Mind](https://cassandra-parisi.medium.com/epic-state-of-mind-1f7553001bc5?source=rss-15b114af825f------2)
+- [What Is ‘this’ All About?](https://cassandra-parisi.medium.com/what-is-this-all-about-5d4c7a185380?source=rss-15b114af825f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
