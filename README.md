@@ -5,7 +5,7 @@ My name is Cassandra and I'm originally from Connecticut, USA. I moved to North 
 I'm currently pursuing my passion to code as a frontend developer using my creativity to design and bring to life user friendly applications.
 
 - 🔭 I’m currently working on fun JavaScript mini-projects that would add spice to any website!
-- 🌱 I’m currently mastering JavaScript, HTML and CSS.<br><br>
+- 🌱 I’m currently mastering JavaScript, HTML and CSS.<br>
 
 ### Connect With Me
 
@@ -13,7 +13,7 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white&style=plastic" />](https://cassandra-parisi.medium.com/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/CParisiDev
 )
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/cassandra.parisi.1)<br><br>
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/cassandra.parisi.1)<br>
 
 ### Expertise
 
@@ -23,7 +23,7 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 <img align="left" alt="react" src="https://img.shields.io/badge/CSS-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=blue&style=plastic" />
 <img align="left" alt="react" src="https://img.shields.io/badge/Ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red&style=plastic" />
 <img align="left" alt="react" src="https://img.shields.io/badge/Ruby%20on%20Rails-%2320232a.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red&style=plastic" />
-<img align="left" alt="react" src="https://img.shields.io/badge/SQL%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=red&style=plastic" /><br><br>
+<img align="left" alt="react" src="https://img.shields.io/badge/SQL%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=red&style=plastic" /><br>
 
 ### Featured posts
 
@@ -34,10 +34,6 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 - [Epic STATE of Mind](https://cassandra-parisi.medium.com/epic-state-of-mind-1f7553001bc5?source=rss-15b114af825f------2)
 - [What Is ‘this’ All About?](https://cassandra-parisi.medium.com/what-is-this-all-about-5d4c7a185380?source=rss-15b114af825f------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
 
 
 <!--
