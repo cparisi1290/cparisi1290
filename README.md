@@ -25,9 +25,8 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 <img align="left" alt="react" src="https://img.shields.io/badge/Ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=red&style=plastic" />
 <img align="left" alt="react" src="https://img.shields.io/badge/Ruby%20on%20Rails-%2320232a.svg?&style=for-the-badge&logo=rubyonrails&logoColor=red&style=plastic" />
 <img align="left" alt="react" src="https://img.shields.io/badge/SQL%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=red&style=plastic" />
-<br>
-<br>
-### Featured posts
+
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
  
 <!-- BLOG-POST-LIST:END -->
