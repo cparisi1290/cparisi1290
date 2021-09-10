@@ -27,10 +27,16 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 <img align="left" alt="react" src="https://img.shields.io/badge/SQL%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=red&style=plastic" />
 <br>
 <br>
-## Featured posts
+### Featured posts
 <!-- BLOG-POST-LIST:START -->
  
 <!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
 <!--
 **cparisi1290/cparisi1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
