@@ -28,10 +28,10 @@ I'm currently pursuing my passion to code as a frontend developer using my creat
 ### Featured posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transform & Transition](https://cassandra-parisi.medium.com/transform-transition-b3d13235dbd?source=rss-15b114af825f------2)
+- [Transform &amp; Transition](https://cassandra-parisi.medium.com/transform-transition-b3d13235dbd?source=rss-15b114af825f------2)
 - [Controlling the @media…](https://cassandra-parisi.medium.com/controlling-the-media-3efceaaa264b?source=rss-15b114af825f------2)
 - [Timing is Everything](https://cassandra-parisi.medium.com/timing-is-everything-c071c88840ff?source=rss-15b114af825f------2)
-- [Now That’s a Flex(box)](https://medium.com/codex/now-thats-a-flex-box-f36aee55b52b?source=rss-15b114af825f------2)
+- [Now That’s a Flex&lpar;box&rpar;](https://medium.com/codex/now-thats-a-flex-box-f36aee55b52b?source=rss-15b114af825f------2)
 - [Epic STATE of Mind](https://cassandra-parisi.medium.com/epic-state-of-mind-1f7553001bc5?source=rss-15b114af825f------2)
 <!-- BLOG-POST-LIST:END -->
 
